@@ -1,0 +1,7 @@
+Customer{name='Vahe', mail='null', bookingRooms=[Room{checkInDate=Sun Jul 23 00:00:00 AMT 2023, checkOutDate=Sun Jul 30 00:00:00 AMT 2023, id=29077217, roomType=DeluxeRoom, customersHystory=[], hotel=Hotel@4c873330}]}
+Customer{name='Arshak', mail='null', bookingRooms=[Room{checkInDate=Thu Aug 24 00:00:00 AMT 2023, checkOutDate=Sat Aug 26 00:00:00 AMT 2023, id=637041810, roomType=SingleRoom, customersHystory=[], hotel=Hotel@4c873330}]}
+
+
+RoomBooking@50040f0c
+RoomBooking@2dda6444
+
